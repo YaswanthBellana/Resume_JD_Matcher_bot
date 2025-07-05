@@ -1,0 +1,1 @@
+We are looking for a Software Engineer with 2+ years of experience in backend development using Python and Django. Experience with REST APIs, databases, and cloud services is preferred.
